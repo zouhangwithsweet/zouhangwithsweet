@@ -18,3 +18,7 @@ JavaScript   38 mins         ▓░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+### Support me
+
+<img src="./afdian-omit.jpeg"></img>
