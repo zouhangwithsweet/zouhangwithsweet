@@ -21,4 +21,4 @@ JavaScript   38 mins         ▓░░░░░░░░░░░░░░░░
 
 ### Support me
 
-<img src="./afdian-omit.jpeg"></img>
+<img width="240" src="./afdian-omit.jpeg"></img>
