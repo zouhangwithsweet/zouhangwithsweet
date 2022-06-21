@@ -21,4 +21,4 @@ XML          14 mins         ▒░░░░░░░░░░░░░░░░
 
 ### Support me
 
-<img width="240" src="./afdian-omit.jpeg"></img>
+Think I'm doing a good job? [爱发电](https://afdian.net/@zouhangsweet)
