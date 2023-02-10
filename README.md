@@ -9,8 +9,8 @@ The chief chef.
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       4 hrs 9 mins    ███████████▓░░░░░░░░░░░░░   46.55 %
-Other        1 hr 47 mins    █████░░░░░░░░░░░░░░░░░░░░   20.18 %
+Vue.js       3 hrs 42 mins   ██████████▓░░░░░░░░░░░░░░   42.48 %
+Other        1 hr 47 mins    █████░░░░░░░░░░░░░░░░░░░░   20.44 %
 ```
 
 <!--END_SECTION:waka-->
