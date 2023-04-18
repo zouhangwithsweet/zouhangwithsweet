@@ -9,12 +9,12 @@ The chief chef.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   10 hrs 27 mins  ███████████▒░░░░░░░░░░░░░   45.57 %
-Python       4 hrs 8 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.07 %
-JSON         2 hrs 36 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
-Vue.js       2 hrs 2 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
-JavaScript   1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
-Astro        38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+TypeScript   13 hrs 18 mins  █████████████▒░░░░░░░░░░░   53.63 %
+JSON         3 hrs 3 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.32 %
+JavaScript   2 hrs 18 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
+Python       2 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
+Vue.js       1 hr 43 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
+Astro        38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
 ```
 
 <!--END_SECTION:waka-->
