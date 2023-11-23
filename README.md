@@ -18,12 +18,18 @@ Markdown     26 mins         ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-## unocss works
+## Unocss works
 
 <div style="display: flex; gap: 16px">
-  <img src="./uno-ext.svg" width="180" />
-  <img src="https://github.com/fisand/unocss-preset-shadcn/raw/main/public/logo.svg" width="180" />
-  <img src="./figma-to-unocss.svg" width="180" />
+  <a href="https://uno-ext-releases.zouhangoo7241.workers.dev/">
+    <img src="./uno-ext.svg" width="180" />
+  </a>
+  <a href="https://github.com/fisand/unocss-preset-shadcn">
+    <img src="https://github.com/fisand/unocss-preset-shadcn/raw/main/public/logo.svg" width="180" />
+  </a>
+  <a href="https://www.figma.com/community/plugin/1309119336695586856/to-unocss">
+    <img src="./figma-to-unocss.svg" width="180" />
+  </a>
 </div>
 
 ### Support me
