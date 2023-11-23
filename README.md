@@ -21,13 +21,13 @@ Markdown     26 mins         ▓░░░░░░░░░░░░░░░░
 ## Unocss works
 
 <div style="display: flex; gap: 16px">
-  <a href="https://uno-ext-releases.zouhangoo7241.workers.dev/">
+  <a href="https://uno-ext-releases.zouhangoo7241.workers.dev/" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/zouhangwithsweet/zouhangwithsweet/71a912567425ae7a48292b5cb69efa26ab40cd79/uno-ext.svg" width="180" />
   </a>
-  <a href="https://github.com/fisand/unocss-preset-shadcn">
+  <a href="https://github.com/fisand/unocss-preset-shadcn" style="text-decoration: none;">
     <img src="https://github.com/fisand/unocss-preset-shadcn/raw/main/public/logo.svg" width="180" />
   </a>
-  <a href="https://www.figma.com/community/plugin/1309119336695586856/to-unocss">
+  <a href="https://www.figma.com/community/plugin/1309119336695586856/to-unocss" style="text-decoration: none;">
     <img src="./figma-to-unocss.svg" width="180" />
   </a>
 </div>
