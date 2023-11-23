@@ -18,6 +18,14 @@ Markdown     26 mins         ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+## unocss works
+
+<div style="display: flex; gap: 16px">
+  <img src="./uno-ext.svg" width="180" />
+  <img src="https://github.com/fisand/unocss-preset-shadcn/raw/main/public/logo.svg" width="180" />
+  <img src="./figma-to-unocss.svg" width="180" />
+</div>
+
 ### Support me
 
 Think I'm doing a good job? [爱发电](https://afdian.net/@zouhangsweet)
