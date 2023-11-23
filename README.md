@@ -22,7 +22,7 @@ Markdown     26 mins         ▓░░░░░░░░░░░░░░░░
 
 <div style="display: flex; gap: 16px">
   <a href="https://uno-ext-releases.zouhangoo7241.workers.dev/">
-    <img src="./uno-ext.svg" width="180" />
+    <img src="https://raw.githubusercontent.com/zouhangwithsweet/zouhangwithsweet/71a912567425ae7a48292b5cb69efa26ab40cd79/uno-ext.svg" width="180" />
   </a>
   <a href="https://github.com/fisand/unocss-preset-shadcn">
     <img src="https://github.com/fisand/unocss-preset-shadcn/raw/main/public/logo.svg" width="180" />
