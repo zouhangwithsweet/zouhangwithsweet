@@ -18,6 +18,11 @@ HTML         1 hr 4 mins     █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+## Chrome Extensions
+
+- [fubukicss-tool](https://chromewebstore.google.com/detail/fubukicss-tool/behnfolmiinfhphfdolomedncdnogcim?hl=en&authuser=0) - one step to get css from figma
+- [unino-ext](https://chromewebstore.google.com/detail/unino-ext/jjilnneecgfmdgamdodfmlmkknbcoekp?hl=en&authuser=0) - one step to get css from sketch measure / lanhuapp
+
 ## Unocss works
 
 <div style="display: flex; gap: 16px">
