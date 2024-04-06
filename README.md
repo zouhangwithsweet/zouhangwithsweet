@@ -9,8 +9,7 @@ The chief chef.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   0 secs          ██████████████████████▒░░   88.77 %
-HTML         0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
