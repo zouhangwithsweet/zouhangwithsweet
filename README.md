@@ -39,4 +39,6 @@ JavaScript    7 mins          ░░░░░░░░░░░░░░░░�
 
 ### Support me
 
-Think I'm doing a good job? [爱发电](https://afdian.net/@zouhangsweet)
+Think I'm doing a good job?  
+![zhifubao_qr](https://github.com/user-attachments/assets/e99fa7a2-1127-4e25-871d-14b32aa7a775)
+
