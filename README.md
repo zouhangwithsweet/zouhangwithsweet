@@ -9,11 +9,11 @@ The chief chef.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    17 hrs 4 mins   ████████████████████▓░░░░   83.26 %
-JSON          2 hrs 11 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
-JavaScript    21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-SCSS          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-TSConfig      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+TypeScript    14 hrs 13 mins  ████████████████████▒░░░░   80.87 %
+JSON          2 hrs 20 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
+JavaScript    30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+YAML          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Prisma        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
