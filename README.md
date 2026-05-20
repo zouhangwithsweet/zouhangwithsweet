@@ -35,6 +35,4 @@ No activity tracked
 
 ### Support me
 
-Think I'm doing a good job?  
-![zhifubao_qr](https://github.com/user-attachments/assets/e99fa7a2-1127-4e25-871d-14b32aa7a775)
-
+Think I'm doing a good job? 
