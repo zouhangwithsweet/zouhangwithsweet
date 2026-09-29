@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi! My name is **Hang Zou**.  
+Hi! My name is **Hang Zou**. Looking for a job :D
 A chef from China.  
 The chief chef.
 
